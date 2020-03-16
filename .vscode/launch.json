@@ -1,0 +1,167 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - list",
+            "request": "launch",
+            "mainClass": "list",
+            "projectName": "java_code_4a15874e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - thanos_sort",
+            "request": "launch",
+            "mainClass": "thanos_sort",
+            "projectName": "java_code_4a15874e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - student",
+            "request": "launch",
+            "mainClass": "student",
+            "projectName": "java_code_4a15874e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - me",
+            "request": "launch",
+            "mainClass": "me",
+            "projectName": "java_code_4a15874e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Customer",
+            "request": "launch",
+            "mainClass": "Customer",
+            "projectName": "java_code_4a15874e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Matrix",
+            "request": "launch",
+            "mainClass": "Matrix",
+            "projectName": "java_code_4a15874e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - sort",
+            "request": "launch",
+            "mainClass": "sort",
+            "projectName": "java_code_4a15874e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - fibo",
+            "request": "launch",
+            "mainClass": "fibo",
+            "projectName": "java_code_4a15874e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - sum",
+            "request": "launch",
+            "mainClass": "sum",
+            "projectName": "java_code_4a15874e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - arrangement",
+            "request": "launch",
+            "mainClass": "arrangement",
+            "projectName": "java_code_4a15874e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - complex_main",
+            "request": "launch",
+            "mainClass": "complex_main",
+            "projectName": "java_code_4a15874e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - array_sub_seq",
+            "request": "launch",
+            "mainClass": "array_sub_seq",
+            "projectName": "java_code_4a15874e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - polio_drops",
+            "request": "launch",
+            "mainClass": "polio_drops",
+            "projectName": "java_code_4a15874e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - stack_call",
+            "request": "launch",
+            "mainClass": "stack_call",
+            "projectName": "java_code_4a15874e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - digit",
+            "request": "launch",
+            "mainClass": "digit",
+            "projectName": "java_code_4a15874e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Innerprime",
+            "request": "launch",
+            "mainClass": "Innerprime",
+            "projectName": "java_code_4a15874e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - pattern",
+            "request": "launch",
+            "mainClass": "pattern",
+            "projectName": "java_code_4a15874e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - replace",
+            "request": "launch",
+            "mainClass": "replace",
+            "projectName": "java_code_4a15874e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Replace",
+            "request": "launch",
+            "mainClass": "Replace",
+            "projectName": "java_code_4a15874e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Pattern",
+            "request": "launch",
+            "mainClass": "Pattern",
+            "projectName": "java_code_4a15874e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Palindrome",
+            "request": "launch",
+            "mainClass": "Palindrome",
+            "projectName": "java_code_4a15874e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Car",
+            "request": "launch",
+            "mainClass": "Car"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "$(file)"
+        }
+    ]
+}
