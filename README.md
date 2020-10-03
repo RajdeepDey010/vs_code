@@ -1,3 +1,3 @@
 # vs_code
 
-You will find some of my intersting codes written out there.
+You will find some of my interesting codes written out there.
